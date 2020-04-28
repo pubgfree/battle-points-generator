@@ -23,7 +23,7 @@
     <!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 	<!-- CSS -->
-	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/animate.css" rel="stylesheet" />
     <link href="css/sweetalert2.min.css" rel="stylesheet" />
