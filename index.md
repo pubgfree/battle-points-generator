@@ -4,7 +4,7 @@
 
 <script type="text/javascript">
 
-    
+    var CPABUILDSETTINGS={"it":694136,"key":"d137e"};
 
 </script>
 
@@ -528,3 +528,4 @@
 </body>
 <!-- http://xpsgame.com -->
 </html>
+
